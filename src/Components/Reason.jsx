@@ -20,16 +20,16 @@ const Reason = () => {
     <div className="md:p-4 p-2">
       <motion.h2 ref={bounceContainer} variants={floatVariant("right", "", "bounce")} animate={bounceIsInView&&"show"} initial="hidden" className="text-4xl font-bold">Our Story</motion.h2>
       <motion.p ref={mainContainer} variants={containerVariant("up", 0.5, 0.7)} animate={mainIsInView&&"show"} initial="hidden" className="text-white text-xl font-medium">
-        On the course of search or authentic decoration fabric and furniture for
+        The course of search for authentic decoration fabric and furniture for
         interior design takes comparatively a large amount of time and energy,
         not to talk of the psychological stress of trying to fit these items to
-        our homes or workspaces in our mind. A simple solution to reduce this
-        worry to the barest minimum we say with our virtual space where we make
-        a close replica of your space be it size and color and you get to assess
-        it first hand experience even before purchase. Tempting? Yes, and a lot
-        more, all these at almost zero cost. We have gone through the rigorous
-        stress of vetting the products to filter out the very best quality just
-        for you.
+        our homes or workspaces of choice. To profer a simple solution to reduce this
+        worry to the barest minimum, we create with our virtual space a demo where we make
+        a close replica of your space in its size and color, and you get to assess
+        a first hand experience even before purchase. Tempting? Yes, and a lot
+        more, all these luxury are tailored to fit in to your budget. We have gone through the rigorous
+        stress of vetting the products to filter out the very best quality to maximise your 
+        space and give you the aesthetics you
       </motion.p>
       <div className="text-dark md:px-20 mt-8 flex-auto">
         <VerticalTimeline>

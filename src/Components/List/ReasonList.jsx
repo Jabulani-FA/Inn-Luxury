@@ -4,7 +4,7 @@ export const ReasonList = [
         Phase: "The Scouting/Application Phase",
         Criteria: "Previous works",
         Evaluation: "Pictures and reviews",
-        Exemption: "Patner Subsidiary",
+        Exemption: "Partner Subsidiary",
         Period: "3 Days",
         icon: <SecurityScanOutlined/>
     },

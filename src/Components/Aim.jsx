@@ -32,13 +32,13 @@ const Aim = () => {
           initial="hidden"
           className="text-white text-xl font-medium"
         >
-          In our own way of contributing to the society. And Contributing to us
-          means a very great deal.
+          In our own way of contributing to the society, to us
+          means a great deal.
           <br /> Starting small between 3-5 warehouses in the major cities of
           Nigeria. <br />
           And gradually expanded to gaining presence in every geo-political
           zone.
-          <br /> Our 7 Target goals are:
+          <br /> Our 6 Target goals are:
         </motion.p>
         <div
           ref={aimContainer}

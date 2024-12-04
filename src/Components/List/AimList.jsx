@@ -5,11 +5,11 @@ export const AimList = [
     },
     {
         id: 2,
-        aim: "Sole Provider of furniture and interior decor."
+        aim: "Major Provider of furniture and interior decor."
     },
     {
         id: 3,
-        aim: "Providing at most possible affordable"
+        aim: "Providing at the most possible affordable price"
     },
     {
         id: 4,
