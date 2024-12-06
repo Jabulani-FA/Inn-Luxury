@@ -71,7 +71,7 @@ const Reason = () => {
 };
 
 const WrappedReason = () => (
-  <HOCComponent Component={Reason} idName="patners"/>
+  <HOCComponent Component={Reason} idName="about"/>
 )
 
 export default WrappedReason;
