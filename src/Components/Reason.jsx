@@ -57,7 +57,7 @@ const Reason = () => {
                   <h3 className="text-sm font-bold">{reason.Phase}</h3>
                 </div>
                 <h3>
-                  <strong>Details:</strong> <em>{reason.Details}</em>
+                  <em>{reason.Details}</em>
                 </h3>
                 <h3>
                   <strong>Period:</strong> <em>{reason.Period}</em>
