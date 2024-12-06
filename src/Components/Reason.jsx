@@ -29,7 +29,7 @@ const Reason = () => {
         a first hand experience even before purchase. Tempting? Yes, and a lot
         more, all these luxury are tailored to fit in to your budget. We have gone through the rigorous
         stress of vetting the products to filter out the very best quality to maximise your 
-        space and give you the aesthetics you
+        space and give you the aesthetics you need.
       </motion.p>
       <div className="text-dark md:px-20 mt-8 flex-auto">
         <VerticalTimeline>
@@ -57,13 +57,7 @@ const Reason = () => {
                   <h3 className="text-sm font-bold">{reason.Phase}</h3>
                 </div>
                 <h3>
-                  <strong>Criteria:</strong> <em>{reason.Criteria}</em>
-                </h3>
-                <h3>
-                  <strong>Evaluation Mode:</strong> <em>{reason.Evaluation}</em>
-                </h3>
-                <h3>
-                  <strong>Exemptions:</strong> <em>{reason.Exemption}</em>
+                  <strong>Details:</strong> <em>{reason.Details}</em>
                 </h3>
                 <h3>
                   <strong>Period:</strong> <em>{reason.Period}</em>
